@@ -5,6 +5,7 @@
 
  **Test the Service:**
  Open a web browser and go to: **http://localhost:3000/weather/Hyderabad**
+ 
  **NOTE:** Replace **Hyderabad** with any city to get its current weather
 
 **Additional Notes:**
