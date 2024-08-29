@@ -17,6 +17,7 @@
 
 
 **Example Output:** If you access http://localhost:4000/weather/Hyderabad, the output will be in JSON format, like this:
+
  {
     "city": "Hyderabad",
     "temperature": 29,
