@@ -9,6 +9,7 @@
  **NOTE:** Replace **Hyderabad** with any city to get its current weather
 
 **Additional Notes:**
+
 **1:** **Express:** This web framework allows you to set up a simple web server to handle HTTP requests.
 
 **2:** **Axios:** This library is used to make HTTP requests to external APIs (in this case, Weatherstack).
